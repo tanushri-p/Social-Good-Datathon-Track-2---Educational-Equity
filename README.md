@@ -1,3 +1,3 @@
 ## College Match Score
-Many low-income, first-gen, and marginalized students don’t receive personalized college counseling. A weighted match score synthesizes affordability, graduation outcomes, and institutional resources into one clear signal to help them navigate a complex landscape. 
+Many low-income, first-gen, and marginalized students don’t receive personalized college counseling. Our proposed solution is a weighted match score that synthesizes affordability, graduation outcomes, and institutional resources into one clear signal to help them navigate a complex landscape. 
 By explicitly combining affordability (net price, debt risk), student success (graduation rates, especially for underrepresented groups), and resources (instructional spending, support services), the score highlights institutions that deliver strong, equitable results rather than just prestige. 
